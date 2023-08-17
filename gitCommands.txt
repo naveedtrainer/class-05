@@ -9,4 +9,5 @@ step5: > git init
 
 Every New changes - repeat
 step6: > git add -A
-step7: > git add commit -m "while loop added"
+step7: > git commit -m "while loop added"
+step8: > git push origin master
